@@ -17,4 +17,4 @@ The final PBI must meet the following criteria:
 
 Data source used for the Project in Power BI is:
 https://www.oiv.int/index.php/what-we-do/statistics - statistics main page,
-https://www.oiv.int/what-we-do/data-discovery-report?oiv - database
+https://www.oiv.int/what-we-do/data-discovery-report?oiv - table with raw data
