@@ -1,8 +1,7 @@
 # Project_Power_BI
 min. 5 different visuals on page, filtering with slicers, measures and calculated columns, data hierarchy, connect multiple data sources
 
-The second project is focused on visualization of the dataset. You can either use your own pre-prepared dataset or use original data sources again.
-You can, of course, be inspired by the questions from the first project, but mainly you have to display them graphically in a Power BI report in an appropriate way. Your task is to visualize your chosen dataset according to the criteria specified below.
+The second project was focused on visualization of the dataset. We were able to use either our own pre-prepared dataset or to use original data sources. The task was to visualize our chosen dataset according to the criteria specified below.
 
 The final PBI must meet the following criteria:
  Range 2-3 pages
